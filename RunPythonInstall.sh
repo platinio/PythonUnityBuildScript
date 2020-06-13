@@ -1,0 +1,2 @@
+"C:\Users\Admin\AppData\Local\Programs\Python\Python38-32\python.exe" "C:\Users\Admin\Documents\Repository\PhytonUnityBuilder\PhytonUnityBuilder\PhytonUnityBuilder.py"
+read -p "Press enter to continue"
